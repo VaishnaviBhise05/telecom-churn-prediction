@@ -1,5 +1,4 @@
 # Telecom Customer Churn Prediction
-
 Predicts which telecom customers are likely to churn so the retention team can act early.
 AIDS Department PBL project.
 
