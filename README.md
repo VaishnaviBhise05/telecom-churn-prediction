@@ -23,9 +23,7 @@ streamlit run app.py                     # live demo
 
 ## Team contributions
 Vaishnavi Bhise :-	problem definition, data understanding, documentation
-
 Srushti Jamdar  :-	preprocessing, EDA and visualisations
-
 Pranjal Dhamane :- 	feature engineering, model building
 
 
